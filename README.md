@@ -1,4 +1,4 @@
-👋 Hi, I'm @PritamChaudhary-QA!
+👋 Hi, I'm Pritam Chaudhary!
 
 👀 I’m interested in exploring innovative solutions in the realm of Quality Assurance and testing methodologies.
 
